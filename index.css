@@ -1,0 +1,34 @@
+* {
+    font-family: Arial;
+}
+table {
+    border-spacing: 4px;
+    border: 2px solid blue;
+    border-radius: 8px ;
+    width: 60% ;
+    margin:auto
+}
+td, th {
+    border: 1px solid blueviolet;
+    text-align: center;
+    border-radius: 8px ;
+    box-shadow: blue 1px 2px;
+}
+td {
+    text-align: center;
+    width: 100px;
+    height: 65px;
+}
+.left{
+    text-align: left;
+}
+span{
+    color: red;
+}
+th {
+    width: 100px;
+    height: 50px;
+}
+img{
+    width: 50%;
+}
